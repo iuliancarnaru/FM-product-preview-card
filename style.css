@@ -33,7 +33,6 @@ body {
   display: grid;
   place-items: center;
   margin-top: 17.5rem;
-  padding: 0 1.6rem;
 }
 
 .card {
